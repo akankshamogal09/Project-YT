@@ -58,4 +58,4 @@ if __name__ == '__main__':
     app.run()
 
 
-eel.start('popup.html')
+# eel.start('popup.html')
